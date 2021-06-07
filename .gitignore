@@ -26,7 +26,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Adding config.py file
 config.py
+
+# Adding additional files
+API_practice.ipynb
+random_numbers.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
